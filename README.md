@@ -36,7 +36,7 @@ Importing in NetBeans 8
 --------------------
 These instructions were tested on NetBeans 8.0.2. You can get it from https://www.netbeans.org
 
-To checkout and run the project in NetBeans, do:
+To checkout and run the project in NetBeans, do: hello
 - Team -> Git -> Clone
 - Set repository URL to https://github.com/vaadin/addressbook.git
 - Finish
